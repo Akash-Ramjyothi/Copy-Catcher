@@ -64,5 +64,4 @@ python3 main.py
 ## 🌐 References Used:
 - https://github.com/Akash-Ramjyothi/Sherlock-Checker
 - https://stackoverflow.com/questions/5312982/can-difflib-be-used-to-make-a-plagiarism-detection-program
-- https://www.youtube.com/watch?v=Jkn06JWDo0E
 - https://pypi.org/project/cdifflib/
